@@ -1,2 +1,3 @@
 # mTamil
 A repository for creating graphemes for the mTamil script
+This contains the necessary font files with the menthamiz script. Menthamiz script is a script derived from Tamil script where each grapheme or symbol represents just one phoneme or sound. Further, graphemes are grouped to represent new phonemes based on a rule. The idea is to have not more than 32 symbols to represent multiple pronunciations. In short menthamiz is a phonetic alphabet for the Tamil script. It is not a replacement for the existing script, but is meant to be used wherever there are phonetic requirements in Tamil.
